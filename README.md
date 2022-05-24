@@ -30,16 +30,10 @@
 * [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
 * [Best Data Lineage Tools](https://neptune.ai/blog/best-data-lineage-tools)
 
-## Socials
+## Socials: Get in touch
 
 <p align="left"> <a href="https://www.github.com/Joggyjagz7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://ejiroonose.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ejiro-onose-310512128/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joggyjagz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-
-## 💌 Get in touch
-- Twitter: [@joggyjagz](https://twitter.com/joggyjagz)
-- Email: [Ejiro Onose](onose75@gmail.com/)
-- Medium Blog: [https://medium.com/@EjiroOnose](https://medium.com/@EjiroOnose)
 
 
 ### Profile Stats.
