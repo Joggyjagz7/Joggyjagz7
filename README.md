@@ -1,6 +1,10 @@
 # 👋  Hi, I am Ejiro Onose 
 
-I am a _ Technical Content Creator, Machine Learning Researcher & Foodie__.
+#### I am a _Technical Content Creator, Machine Learning Researcher & Foodie_
+------------------------------------------------------
+
+* ✉️  You can contact me at [onose75@gmail.com](mailto:onose75@gmail.com )
+* 🤝  I'm open to collaborating on interesting projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykhale1992)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Joggyjagz7)
@@ -8,24 +12,28 @@ I am a _ Technical Content Creator, Machine Learning Researcher & Foodie__.
 
 
 ## ✨ My Expertise
+- Technical writing
 - Data science
 - Machine Learning
 - Deep learning (computer vision)
 - C++
 - Flutter
-- Technical writing
+
 
 
 ## Articles
--[Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there),
--[Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
-[ML Monitoring vs ML Observabilty](https://www.aporia.com/blog/ml-observability-vs-ml-monitoring/)
-[Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
-[How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
-[Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
+* [Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there),
+* [Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
+* [ML Monitoring vs ML Observabilty](https://www.aporia.com/blog/ml-observability-vs-ml-monitoring/)
+* [Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
+* [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
+* [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
+* [Best Data Lineage Tools](https://neptune.ai/blog/best-data-lineage-tools)
 
 ### Tech
+### Socials
 
+<p align="left"> <a href="https://www.github.com/Joggyjagz7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://ifeoluwafavour.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/onose-ejiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joggyjagz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 
@@ -44,3 +52,6 @@ I am a _ Technical Content Creator, Machine Learning Researcher & Foodie__.
 [![Ejiro's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joggyjagz7&theme=light)](https://github.com/Joggyjagz7)
 
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif"/>
+</div>
