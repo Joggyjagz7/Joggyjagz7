@@ -30,6 +30,7 @@
 * [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
 * [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
 * [Best Data Lineage Tools](https://neptune.ai/blog/best-data-lineage-tools)
+* [Blockchain Simplified](https://medium.com/@EjiroOnose/blockchain-simplified-aa8a2d0b816d)
 
 ## Socials: Get in touch
 
