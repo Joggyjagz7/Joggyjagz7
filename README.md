@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Joggyjagz7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Joggyjagz7?tab=followers)
 
 
-## ✨ My Expertise
+## My Expertise
 - Technical writing
 - Data science
 - Machine Learning
