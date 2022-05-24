@@ -1,6 +1,6 @@
 # 👋  Hi, I am Ejiro Onose 
 
-#### I am a Technical Content Creator, Machine Learning Researcher, Weeb & Foodie
+#### I am a Technical Content Creator, Machine Learning Researcher, Web3 Enthusiast & Foodie
 ------------------------------------------------------
 
 * ✉️  You can contact me at [onose75@gmail.com](mailto:onose75@gmail.com )
@@ -16,8 +16,8 @@
 - Data science
 - Machine Learning
 - Deep learning (computer vision)
-- C++
-- Flutter
+- Mobile development Flutter
+- Web3
 
 
 
@@ -25,6 +25,7 @@
 * [Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there),
 * [Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
 * [ML Monitoring vs ML Observabilty](https://www.aporia.com/blog/ml-observability-vs-ml-monitoring/)
+* [Tokenomics in Web3](https://medium.com/@EjiroOnose/tokenomics-48ebacf79cde)
 * [Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
 * [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
 * [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
