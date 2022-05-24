@@ -1,12 +1,10 @@
-### Hi there 👋
-
 # 👋  Hi, I am Ejiro Onose 
+
+I am a _ Technical Content Creator, Machine Learning Researcher & Foodie__.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykhale1992)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Joggyjagz7)
 [![GitHub followers](https://img.shields.io/github/followers/Joggyjagz7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Joggyjagz7?tab=followers)
-
-I am a _Machine Learning Engineer__.
 
 
 ## ✨ My Expertise
@@ -19,10 +17,10 @@ I am a _Machine Learning Engineer__.
 
 
 ## Articles
-[Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there)
-[Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
+-[Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there),
+-[Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
 [ML Monitoring vs ML Observabilty](https://www.aporia.com/blog/ml-observability-vs-ml-monitoring/)
-[Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops)
+[Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
 [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
 [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
 
