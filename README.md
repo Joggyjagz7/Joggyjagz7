@@ -22,6 +22,7 @@
 
 
 ## Articles
+* [How to Automate Data Drift Thresholding in Machine Learning](https://deepchecks.com/how-to-automate-data-drift-thresholding-in-machine-learning/)
 * [Using Knative and Ambassador Edge Stack to Handle Traffic](https://medium.com/ambassador-api-gateway/using-knative-and-ambassador-edge-stack-to-handle-traffic-5b938470d51f)
 * [Opta vs Pulumi](https://medium.com/faun/opta-vs-pulumi-39287fc130fd)
 * [How to Choose the Right Solution for Machine Learning Monitoring](https://www.aporia.com/blog/how-to-choose-the-right-solution-for-machine-learning-monitoring/)
