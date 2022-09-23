@@ -22,6 +22,9 @@
 
 
 ## Articles
+* [Using Knative and Ambassador Edge Stack to Handle Traffic](https://medium.com/ambassador-api-gateway/using-knative-and-ambassador-edge-stack-to-handle-traffic-5b938470d51f)
+* [Opta vs Pulumi](https://medium.com/faun/opta-vs-pulumi-39287fc130fd)
+* [How to Choose the Right Solution for Machine Learning Monitoring](https://www.aporia.com/blog/how-to-choose-the-right-solution-for-machine-learning-monitoring/)
 * [Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there),
 * [Explainability and Auditabilty in Machine Learning](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
 * [ML Monitoring vs ML Observabilty](https://www.aporia.com/blog/ml-observability-vs-ml-monitoring/)
@@ -29,6 +32,7 @@
 * [Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
 * [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
 * [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
+* [How to Improve Model Performance with ML Monitoring](https://www.aporia.com/blog/improving-model-performance-with-ml-monitoring/)
 * [Best Data Lineage Tools](https://neptune.ai/blog/best-data-lineage-tools)
 * [Blockchain Simplified](https://medium.com/@EjiroOnose/blockchain-simplified-aa8a2d0b816d)
 
