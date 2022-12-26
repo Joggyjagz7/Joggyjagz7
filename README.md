@@ -32,6 +32,7 @@
 * [Tokenomics in Web3](https://medium.com/@EjiroOnose/tokenomics-48ebacf79cde)
 * [Azure ML Alternatives for MLOps](https://neptune.ai/blog/azure-ml-alternatives-for-mlops),
 * [How to solve Reproducibilty in Machine Learning](https://neptune.ai/blog/how-to-solve-reproducibility-in-ml)
+* [What is Kubernetes Lens](https://lightrun.com/what-is-kubernetes-lens/)
 * [Building Machine Learning Chatbots: Choose the Right Platform and Applications](https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications)
 * [How to Improve Model Performance with ML Monitoring](https://www.aporia.com/blog/improving-model-performance-with-ml-monitoring/)
 * [Best Data Lineage Tools](https://neptune.ai/blog/best-data-lineage-tools)
