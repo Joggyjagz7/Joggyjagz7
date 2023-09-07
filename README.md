@@ -1,6 +1,6 @@
 # 👋  Hi, I am Ejiro Onose 
 
-#### I am a Technical Content Creator, Machine Learning Researcher, Web3 Enthusiast & Foodie
+#### I am a Technical Content Creator, Machine Learning Researcher, Web3 Enthusiast & Part-time Chef
 ------------------------------------------------------
 
 * ✉️  You can contact me at [onose75@gmail.com](mailto:onose75@gmail.com )
