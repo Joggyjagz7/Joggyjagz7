@@ -1,6 +1,6 @@
 # 👋  Hi, I am Ejiro Onose 
 
-#### I am a Technical Content Creator, Machine Learning Researcher, Web3 Enthusiast & Part-time Chef
+#### I am a Technical Content Creator, Machine Learning Engineer and Researcher, Web3 Enthusiast & Part-time Chef
 ------------------------------------------------------
 
 * ✉️  You can contact me at [onose75@gmail.com](mailto:onose75@gmail.com )
@@ -12,11 +12,12 @@
 
 
 ## My Expertise
-- Technical writing
-- Data science
-- Machine Learning
-- Deep learning (computer vision)
-- Mobile development Flutter
+- Technical writing (ML & DevOps)
+- Machine Learning (LLMs, Computer Vision)
+- DevOps (AWS, EdgeStack, GCP, Kubernetes, Jenkins, Pulumi)
+- Data Science
+- Web Development (HTML, CSS, JS, Django)
+- Mobile development (Flutter)
 - Web3
 
 
