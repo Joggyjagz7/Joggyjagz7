@@ -14,6 +14,7 @@
 - [Local-LLM-Agent-With-Monitoring](https://github.com/Joggyjagz7/Local-LLM-Agent-With-Monitoring)
 - [Chat with your Docs](https://github.com/Joggyjagz7/Chat-With-Docs)
 - [AI-News-Generator](https://github.com/Joggyjagz7/AI-News-Generator)
+- [Proactive Repair Pal](https://github.com/Joggyjagz7/pr-pal/tree/master)
 
 
 ## My Expertise
