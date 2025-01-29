@@ -10,6 +10,11 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Joggyjagz7)
 [![GitHub followers](https://img.shields.io/github/followers/Joggyjagz7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Joggyjagz7?tab=followers)
 
+## ML Projects
+- [Local-LLM-Agent-With-Monitoring](https://github.com/Joggyjagz7/Local-LLM-Agent-With-Monitoring)
+- [Chat with your Docs](https://github.com/Joggyjagz7/Chat-With-Docs)
+- [AI-News-Generator](https://github.com/Joggyjagz7/AI-News-Generator)
+
 
 ## My Expertise
 - Technical writing (ML & DevOps)
