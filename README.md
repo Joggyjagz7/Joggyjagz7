@@ -12,6 +12,8 @@
   <a href="mailto:onose75@gmail.com"><img src="https://img.shields.io/badge/Email-onose75%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@EjiroOnose"><img src="https://img.shields.io/badge/Medium-@EjiroOnose-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://www.techloy.com/author/ejiro"><img src="https://img.shields.io/badge/Techloy-Author-1a1a1a?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://blog.me-cash.com/author/ejiro/"><img src="https://img.shields.io/badge/meCash%20Blog-Author-0B6E4F?style=flat-square&logo=ghost&logoColor=white" /></a>
+  <a href="https://developer.me-cash.com/"><img src="https://img.shields.io/badge/meCash%20Docs-Builder-0B6E4F?style=flat-square&logo=readthedocs&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ejiro-onose-310512128/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.twitter.com/joggyjagz"><img src="https://img.shields.io/badge/X-@joggyjagz-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
@@ -29,8 +31,25 @@ turning research and tooling into things engineers can actually use.
 
 - Writing about LLM interpretability, agent observability, and RAG architecture
 - Publishing in **Towards AI**, **Data Science Collective**, **AI in Plain English**, and **Techloy**
+- Covering fintech, payments, and cross-border infrastructure on the **meCash** blog
 - Open to collaborating on interesting projects
 - Reach me at [onose75@gmail.com](mailto:onose75@gmail.com)
+
+---
+
+## Shipped Work
+
+<a href="https://developer.me-cash.com/">
+  <img src="assets/mecash-docs-preview.png" width="100%" alt="meCash Developer Documentation" />
+</a>
+
+### [meCash Developer Documentation →](https://developer.me-cash.com/)
+
+Built and maintain the developer documentation for meCash's cross-border payments
+platform: API reference, authentication, sandbox guides, and integration walkthroughs
+for the Ramp and Payment Links APIs.
+
+`Mintlify` `OpenAPI` `MDX` `Docs-as-Code`
 
 ---
 
@@ -69,6 +88,11 @@ turning research and tooling into things engineers can actually use.
 - [Inside the Black Box: The State of LLM Interpretability in 2026](https://medium.com/ai-in-plain-english/inside-the-black-box-the-state-of-llm-interpretability-in-2026-5cd71042c95e)
 - [Anthropic Found a Global Workspace Inside Language Models — Here's What It Means](https://medium.com/ai-in-plain-english/anthropic-found-a-global-workspace-inside-language-models-here-s-what-it-means-b8a3d4a8370b)
 - [Hallucination in Large Language Models](https://medium.com/ai-in-plain-english/hallucination-in-large-language-models-08871ba468d1)
+
+
+### Fintech & Payments
+Writing on cross-border payments, stablecoin rails, and African fintech infrastructure
+for meCash — full archive at [blog.me-cash.com/author/ejiro](https://blog.me-cash.com/author/ejiro/).
 
 ### RAG, Retrieval & Context
 - [Open Knowledge Format (OKF) vs Vector Databases: Why Your RAG Needs a New Knowledge Format](https://medium.com/towards-artificial-intelligence/open-knowledge-format-okf-vs-vector-databases-why-your-rag-needs-a-new-knowledge-format-1ec88e44204c)
@@ -115,7 +139,7 @@ turning research and tooling into things engineers can actually use.
 - [Tokenomics](https://medium.com/@EjiroOnose/tokenomics-48ebacf79cde)
 - [Blockchain Simplified](https://medium.com/@EjiroOnose/blockchain-simplified-aa8a2d0b816d)
 
-> More on [Medium](https://medium.com/@EjiroOnose) and [Techloy](https://www.techloy.com/author/ejiro).
+> More on [Medium](https://medium.com/@EjiroOnose), [Techloy](https://www.techloy.com/author/ejiro), and the [meCash blog](https://blog.me-cash.com/author/ejiro/).
 
 ---
 
@@ -123,9 +147,13 @@ turning research and tooling into things engineers can actually use.
 
 <p align="center">
   <a href="https://github.com/Joggyjagz7">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joggyjagz7&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joggyjagz7&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=86400" alt="Ejiro's GitHub stats" />
   </a>
   <a href="https://github.com/Joggyjagz7">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joggyjagz7&layout=compact&title_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joggyjagz7&layout=compact&langs_count=8&title_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=86400" alt="Top languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joggyjagz7&theme=github_dark" alt="Profile summary" />
 </p>
