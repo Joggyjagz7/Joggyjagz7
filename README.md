@@ -92,7 +92,7 @@ for the Ramp and Payment Links APIs.
 
 ### Fintech & Payments
 Writing on cross-border payments, stablecoin rails, and African fintech infrastructure
-for meCash — full archive at [blog.me-cash.com/author/ejiro](https://blog.me-cash.com/author/ejiro/).
+for meCash — full archive at [blog.me-cash.com/author/ejiro-onose](https://blog.me-cash.com/authors/ejiro-onose/).
 
 ### RAG, Retrieval & Context
 - [Open Knowledge Format (OKF) vs Vector Databases: Why Your RAG Needs a New Knowledge Format](https://medium.com/towards-artificial-intelligence/open-knowledge-format-okf-vs-vector-databases-why-your-rag-needs-a-new-knowledge-format-1ec88e44204c)
